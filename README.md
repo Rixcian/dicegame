@@ -1,5 +1,5 @@
 # dicegame
-This is my first JS game. It's simple dice game, but from the begining maybe hard to understand. Here's the link if you wanna play it: http://www.http://kremecek.accros.cz/dicegame/
+This is my first JS game. It's simple dice game, but from the begining maybe hard to understand. Here's the link if you wanna play it: http://www.kremecek.accros.cz/dicegame/
 
 ## Game Rules
 - The game has 2 players, playing in rounds
